@@ -1,1 +1,2 @@
 
+print( "open smmlover.tech" )
